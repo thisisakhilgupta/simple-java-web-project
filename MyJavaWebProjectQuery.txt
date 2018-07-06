@@ -1,0 +1,1 @@
+create table user_data (firstname varchar(20),lastname varchar(20), username varchar(20) primary key, password varchar (40), Birth_day varchar (4),Birth_month varchar (4),Birth_year varchar (4), Gender varchar (6))
